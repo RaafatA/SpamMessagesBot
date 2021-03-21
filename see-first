@@ -1,0 +1,5 @@
+You have to install pynput package on your machine
+use this command for  
+- windows : pip install pynput
+- Linux : pip3 install pynput
+then run the code with changing the varible f as  you like ( list ,file , str) with the content you want to send 
